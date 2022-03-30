@@ -1,4 +1,4 @@
-This is the backed for the vue application.
+This is the backend for the vue application.
 
 To download it, go to the directory of your choice and use the command:
 
